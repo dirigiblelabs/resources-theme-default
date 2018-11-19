@@ -12,6 +12,7 @@ exports.getTheme = function() {
 	return {
 		'id': 'default',
 		'module': 'theme-default',
-		'name': 'Default'
+		'name': 'Default',
+		'order': 0
 	};
 };
