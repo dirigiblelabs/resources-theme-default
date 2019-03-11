@@ -52,7 +52,7 @@ body {
 	background: #555;
 	color: #ccc;
 	position: fixed;
-	botoom: 0;
+	bottom: 0;
 }
 .list-group-item {
   background: none !important;
