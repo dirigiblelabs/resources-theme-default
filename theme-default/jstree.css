@@ -307,7 +307,7 @@
   box-shadow: inset 0 0 1px #555555;
 }
 .jstree-default .jstree-clicked {
-  background: #7a642c/*#5fa2db*/;
+  background: #4272af/*#5fa2db*/;
   border-radius: 2px;
   box-shadow: inset 0 0 1px #666666;
 }
@@ -375,9 +375,9 @@
   background: #555555;
 }
 .jstree-default .jstree-wholerow-clicked {
-  background: #7a642c;
-  background: -webkit-linear-gradient(top, #7a642c 0%, #7a642c 100%);
-  background: linear-gradient(to bottom, #7a642c 0%, #7a642c 100%);
+  background: #4272af;
+  background: -webkit-linear-gradient(top, #4272af 0%, #4272af 100%);
+  background: linear-gradient(to bottom, #4272af 0%, #4272af 100%);
 }
 .jstree-default .jstree-node {
   min-height: 24px;
@@ -1055,7 +1055,7 @@
     background: #555555;
   }
   .jstree-default-responsive .jstree-wholerow-clicked {
-    background: #7a642c;
+    background: #4272af;
   }
   .jstree-default-responsive .jstree-children .jstree-last > .jstree-wholerow {
     box-shadow: inset 0 -6px 3px -5px #111111;
