@@ -452,7 +452,24 @@ ul.vakata-context.jstree-contextmenu span.vakata-contextmenu-shortcut {
 }
 
 .workspace {
-	/*border-top: 2px solid #edeff0;*/
+	font-weight: 300;
+	margin-top: 24px;
+    position: relative;
+}
+
+.database {
+	font-weight: 300;
+	margin-top: 24px;
+    position: relative;
+}
+
+.repository {
+	font-weight: 300;
+	margin-top: 24px;
+    position: relative;
+}
+
+.registry {
 	font-weight: 300;
 	margin-top: 24px;
     position: relative;
