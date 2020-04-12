@@ -200,14 +200,11 @@ ul.vakata-context.jstree-contextmenu span.vakata-contextmenu-shortcut {
   flex: 1 1 auto;
   max-width: 15%;
   padding: 2px 5px;
-  white-space: nowrap;
-  overflow: auto;
+  /*background: #292929;*/
 }
 .value {
   flex: 2 1 auto;
   padding: 2px 5px;
-  white-space: nowrap;
-  overflow: auto;
 }
 .striped-container .striped-item:nth-of-type(odd) {
   /*background: #565656;*/
@@ -500,4 +497,9 @@ th {
 .tdSingleLine {
 	white-space: nowrap;
 	overflow: auto;
+}
+
+.extension-name {
+	color: #eee;
+	font-weight: 400;
 }
