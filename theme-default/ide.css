@@ -176,7 +176,11 @@ ul.vakata-context.jstree-contextmenu span.vakata-contextmenu-shortcut {
 }
 
 .view {
-	background-color: #999999;
+	/* background-color: #999999; */
+	color: #f6f6f6;
+}
+
+.preview-pre {
 	color: #f6f6f6;
 }
 
