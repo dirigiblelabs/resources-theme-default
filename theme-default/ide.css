@@ -177,11 +177,11 @@ ul.vakata-context.jstree-contextmenu span.vakata-contextmenu-shortcut {
 
 .view {
 	/* background-color: #999999; */
-	color: #f6f6f6;
+	color: silver;
 }
 
 .preview-pre {
-	color: #f6f6f6;
+	color: silver;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -507,4 +507,10 @@ th {
 .extension-name {
 	color: #eee;
 	font-weight: 400;
+}
+
+.logs-area {
+	height: 100% !important;
+	background-color: #343436;
+	color: silver;
 }
