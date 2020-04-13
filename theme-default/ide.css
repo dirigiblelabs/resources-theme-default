@@ -424,6 +424,8 @@ ul.vakata-context.jstree-contextmenu span.vakata-contextmenu-shortcut {
     z-index: 1030;
 	background-color: #343436;
 	border-bottom: 2px solid #333;
+	white-space: nowrap;
+	overflow: auto;
 }
 
 .preview-button {
