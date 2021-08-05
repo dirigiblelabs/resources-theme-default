@@ -560,3 +560,10 @@ th {
 .bg-default {
 	background-color: #333333;
 }
+
+/* JSTree fixes */
+.jstree-rename-input {
+	background-color: #555;
+	border: 1px solid #222;
+	border-radius: 3px;
+}
