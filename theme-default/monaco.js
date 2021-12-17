@@ -8,4 +8,4 @@
  * Contributors:
  *   SAP - initial API and implementation
  */
-var monacoTheme = 'vs-dark';
+let monacoTheme = 'vs-dark';
